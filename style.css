@@ -1,3 +1,6 @@
-div .img-container img{
-   
+body {
+    margin: 0;
+    padding: 0;
 }
+
+div .img-container img {}
